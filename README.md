@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @snalawad
-- 👀 I’m interested in Data Science and Artificial Intelligence.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on interesting projects on Python.
 - 📫 How to reach me snalawad@kent.edu or insta: suyash__nalawade
